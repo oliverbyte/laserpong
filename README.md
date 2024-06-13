@@ -2,7 +2,7 @@
 Play the classic game *Pong* with 2 players on a laser projector.
 
 # Requirements
-- Python3 runtime
+- Python3.9 runtime
 - Helios Laser DAC
 - Showlaser projector (connected to Helios Laser DAC)
 
